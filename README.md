@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning something.
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: adlermedrado@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
