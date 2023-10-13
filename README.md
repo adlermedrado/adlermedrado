@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,php,js,gcp,aws,mysql,postgresql,git,kubernetes,docker,linux,vim,markdown&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,gradle,hibernate,graphql,python,django,fastapi,php,symfony,js,gcp,aws,mysql,postgresql,mongodb,redis,git,github,gitlab,go,kubernetes,docker,linux,vim,neovim,idea,nginx,rabbitmq,markdown&perline=8" />
   </a>
 </p>
