@@ -1,4 +1,4 @@
-```-----BEGIN PGP SIGNED MESSAGE-----
+-----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
 With 20+ years of experience, I've been working with computers since my teenage years, when I built my BBS (Bulletin Board System) using an old PC/AT 386 with MS-DOS and Remote Access.
@@ -33,7 +33,6 @@ FmaBmnWHzb8ovcbsMtrzsUMt80BiR3ihIZG7I3vojHhOUII8cju36NbRHap3gsKd
 FgyIQBhX8pC0f2B02oIdq4Sdqy+CDY+locBXlDgoBZ62T0pY1ys=
 =VWH9
 -----END PGP SIGNATURE-----
-```
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=adlermedrado&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/adlermedrado/adlermedrado)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlermedrado&hide=JavaScript,HTML,CSS,ipynb&layout=compact&theme=tokyonight&hide_border=true&bg_color=31313A&langs_count=10)](https://github.com/adlermedrado/adlermedrado)
