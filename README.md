@@ -42,6 +42,3 @@ GxMJ3dFgc/rXyjuO82x0hGZ7oSZVDwy6BGHzEQBjAmU93YYghUT8xI650ygw7x+c
 =wNHN
 -----END PGP SIGNATURE-----
 ```
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adlermedrado&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/adlermedrado/adlermedrado)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlermedrado&hide=JavaScript,HTML,CSS,ipynb&layout=compact&theme=tokyonight&hide_border=true&bg_color=31313A&langs_count=10)](https://github.com/adlermedrado/adlermedrado)
