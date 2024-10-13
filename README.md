@@ -24,21 +24,21 @@ environment that encourages knowledge-sharing and creative problem-solving.
 Adaptable Learner: If I encounter something unfamiliar, I have the ability and enthusiasm to quickly 
 learn and adapt.
 
-Key fingerprint: 39A9 0E7D 803B 5C02 D3EF EBA7 FF67 6DC5 2A01 91C3
+Key fingerprint: 07D7 0FDB CC44 6C19 CA43  02CE 6D5F 1A78 F1DC 361D
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEOakOfYA7XALT7+un/2dtxSoBkcMFAmWyamwACgkQ/2dtxSoB
-kcONxA//WsgOonqqZS+cv89nKxnSDewgyxd49d1yADQtyGJYvqND5X4Y9P9f6YND
-uDrGLlsLf86/UOPUuwlkbBHlSNVREFrty2Eb6jYcNT9O/1WV1tRDUR3/SJmDvpLN
-Ccg9a+/5F/Orb7F9Aou1oSMrYgd4x7RmF7m6dm6A6/rvTdDX8C4Qwqveysoc9Syr
-Dy9HycUHViCu1V8IIJvAarOp0OpLImurpFpfJeZTe0vRFDTypU1ffMmedFD/57Gl
-iLfe7g9wN/0fTUiII5cpyXOUrcMZtxH6etGuB+j0mED0/+6gpmw0LMTE0dL7p2rZ
-CHqZse+asCbUflf/UOMaKEpazPAAUYaGqC78EX0tUr4S2KH4CSk/D4KDyYeEB0oq
-ugEsDRFXGuYbo+ZfcyapVPqBhVFDEXeaDykmh4kz3oq8RCLz0x7J6oR/UpgPqPOP
-kB/StbSgPQPJ0ejft49H+7yH2TrC/4sL3tNpj2BA6bC+hX9Z5LG3GbFMYcNZTCsB
-GxMJ3dFgc/rXyjuO82x0hGZ7oSZVDwy6BGHzEQBjAmU93YYghUT8xI650ygw7x+c
-6s57P3/hLxGfSwlXZpo06AeBhKIaHgRIfNnkv+karwIvdpzcNMQUfSMAxKLemQyI
-+ea8Gy0IrxGkIY4fpS4ZGhycdqk0uCogcrgepGoR4zZl/VZ47gY=
-=wNHN
+iQIzBAEBCAAdFiEEB9cP28xEbBnKQwLObV8aePHcNh0FAmcMH4kACgkQbV8aePHc
+Nh2ZHw//aktFbCT3MUpe2S896LxuNt3CBZa0g+xHnPxYRqJoxDYhPKezzo4r+XKv
+G2yRIe0pnjE45pg/czwgwUCrcqJRM3Uedhnt6kwAhS33Y4ykqVb0G98o8rCg3eBv
+h+lPSdi4Ta8Y++z29iLutM8zNGTJ2eX/uxvncAzT7UuMCuY1z9i1b1X3jtWwp4n4
+FtYzcQBfgW6zHRFu71MaYvbeJr34QGS72QEQLYUW6sBmHWw8EmAm36EZWB4JCQ+T
+WGBCKOLTT2lrhhvd9X5dH7mK647kkie3WAYCp6EZm81UKP178Fd9w9f5a4Y3/uZj
+WsqJv+wT1pSXycJ+47xssMFauEtABlw2cctU4XNLJ65irwnxQEMw/yLYn49PODlk
+J2L7u7y805hX+cRomDomZyHKHk0It46RHv988KtSPK7KUVeMWKAQkgPjBknk/nKc
+clbWl4BbByl7xNHNafIvo/5S8GpaL7BRvHltjrzHBYnbl6+oWRX54QocUHKv1UBZ
+xm5XADwi7ePIHN7C+10hQFz+VSt8iJzLjtMbSiPE7CIPvgvhOiv6Lk5Ss8KckwlU
+/r/J8Nv+XT7bczcjt5+/EzCcmh3vZUs4IMN1WCLk1G7FPCWj5XT1JTrEIdxWYaPM
+5LFhVsyOnHMaqWTlsVJGRTzackb5xotGe32KABjNEoAX5v87Nsw=
+=Gado
 -----END PGP SIGNATURE-----
 ```
